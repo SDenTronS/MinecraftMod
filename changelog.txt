@@ -1,4 +1,4 @@
-1.16.x Changelog
+1.16.5 Changelog
 36.2
 ====
  - 36.2.34 Add Gzip support to version checker (partial backport of #8148 from 1.17) (#8567)
